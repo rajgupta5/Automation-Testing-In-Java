@@ -1,5 +1,5 @@
 
-** Install **
+## Install ##
 [https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/macos-install.html]
 
 - /usr/libexec/java_home
@@ -11,6 +11,6 @@
 - /Library/Java/JavaVirtualMachines/amazon-corretto-11.jdk/Contents/Home
 - export JAVA_HOME=/Library/Java/JavaVirtualMachines/amazon-corretto-11.jdk/Contents/Home
 
-** Uninstall **
+## Uninstall ##
 - cd /Library/Java/JavaVirtualMachines/
 - sudo rm -rf amazon-corretto-11.jdk
