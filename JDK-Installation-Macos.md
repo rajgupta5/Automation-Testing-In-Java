@@ -1,5 +1,6 @@
 
-## Install ##
+## Java Setup - Install ##
+[https://aws.amazon.com/corretto/]
 [https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/macos-install.html]
 
 - /usr/libexec/java_home
@@ -14,3 +15,6 @@
 ## Uninstall ##
 - cd /Library/Java/JavaVirtualMachines/
 - sudo rm -rf amazon-corretto-11.jdk
+
+
+## Configure IntelliJ ##
