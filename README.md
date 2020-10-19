@@ -46,6 +46,7 @@ https://dzone.com/articles/top-5-java-test-frameworks-for-automation-in-2019
 
 
 ## SDET JAVA ##
-- 
+- https://docs.google.com/document/d/1gKDuGrh_cMBH8my-a1QOlL6aUQcvKzV0o2_BeFPSBI8/edit#
+- https://docs.google.com/document/d/1qZC3JCOS0LAwFsniTioqNWQMCAx35IdMWUtPQCDRPoI/edit
 
 
