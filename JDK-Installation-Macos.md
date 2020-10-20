@@ -18,3 +18,4 @@
 
 
 ## Configure IntelliJ ##
+![IntelliJ Configure](https://github.com/rajgupta5/Automation-Testing-In-Java/blob/main/ProjectStructureForNewProjects.png)
