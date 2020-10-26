@@ -40,6 +40,7 @@ https://dzone.com/articles/top-5-java-test-frameworks-for-automation-in-2019
   - browse to http://localhost:8080
   - Enter Admin password from /Users/<username>/.jenkins/secrets/initialAdminPassword
   - Click Install Suggested Plugins
+  - To Stop: brew services stop jenkins-lts
 
 ## YOUTUBE CHANNELS ## 
 - https://www.youtube.com/c/NaveenAutomationLabs/playlists
