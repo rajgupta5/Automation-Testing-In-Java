@@ -2,4 +2,5 @@
 
 ## TEST API's ##
 - https://github.com/james-willett/VideoGameDB
+  - http://localhost:8080/swagger-ui/index.html#/
 - https://www.football-data.org/
