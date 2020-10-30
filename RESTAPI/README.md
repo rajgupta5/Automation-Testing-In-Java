@@ -5,7 +5,8 @@
 - Converting XML or JSON to Java POJO Classes
 - http://pojo.sodhanalibrary.com/
 
-## Spring Dependency Injection ##
+## Spring DI(Dependency Injection)/IOC (Inversion of Control) ##
+- Dependencies are objects
 
 
 ## TEST API's ##
