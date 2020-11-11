@@ -19,3 +19,7 @@
 
 ## Configure IntelliJ ##
 ![IntelliJ Configure](https://github.com/rajgupta5/Automation-Testing-In-Java/blob/main/ProjectStructureForNewProjects.png)
+
+
+## Working with multiple Java versions in MacOS ##
+https://medium.com/@brunofrascino/working-with-multiple-java-versions-in-macos-9a9c4f15615a
