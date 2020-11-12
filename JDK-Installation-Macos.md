@@ -12,6 +12,15 @@
 - /Library/Java/JavaVirtualMachines/amazon-corretto-11.jdk/Contents/Home
 - export JAVA_HOME=/Library/Java/JavaVirtualMachines/amazon-corretto-11.jdk/Contents/Home
 
+## Setting Java versions using Jenv ##
+- brew install jenv
+- echo 'export PATH="$HOME/.jenv/bin:$PATH"' >> ~/.zshrc
+- echo 'eval "$(jenv init -)"' >> ~/.zshrc
+- jenv add <jdk_path>
+- jenv versions
+- jenv remove <jdk version>
+
+
 ## Uninstall ##
 - cd /Library/Java/JavaVirtualMachines/
 - sudo rm -rf amazon-corretto-11.jdk
@@ -23,3 +32,4 @@
 
 ## Working with multiple Java versions in MacOS ##
 https://medium.com/@brunofrascino/working-with-multiple-java-versions-in-macos-9a9c4f15615a
+https://www.jenv.be/
