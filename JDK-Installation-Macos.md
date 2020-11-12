@@ -19,6 +19,7 @@
 - jenv add <jdk_path>
 - jenv versions
 - jenv remove <jdk version>
+- jenv global 1.8
 
 
 ## Uninstall ##
