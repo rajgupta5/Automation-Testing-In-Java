@@ -1,7 +1,7 @@
 
 ## Java Setup - Install ##
-[https://aws.amazon.com/corretto/]
-[https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/macos-install.html]
+- [https://aws.amazon.com/corretto/]
+- [https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/macos-install.html]
 
 - /usr/libexec/java_home
 - /usr/libexec/java_home -V
@@ -28,9 +28,9 @@
 
 
 ## Configure IntelliJ ##
-![IntelliJ Configure](https://github.com/rajgupta5/Automation-Testing-In-Java/blob/main/ProjectStructureForNewProjects.png)
+- ![IntelliJ Configure](https://github.com/rajgupta5/Automation-Testing-In-Java/blob/main/ProjectStructureForNewProjects.png)
 
 
 ## Working with multiple Java versions in MacOS ##
-https://medium.com/@brunofrascino/working-with-multiple-java-versions-in-macos-9a9c4f15615a
-https://www.jenv.be/
+- https://medium.com/@brunofrascino/working-with-multiple-java-versions-in-macos-9a9c4f15615a
+- https://www.jenv.be/
