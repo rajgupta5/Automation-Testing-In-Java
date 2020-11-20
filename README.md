@@ -51,6 +51,9 @@ https://dzone.com/articles/top-5-java-test-frameworks-for-automation-in-2019
 - https://docs.google.com/document/d/1qZC3JCOS0LAwFsniTioqNWQMCAx35IdMWUtPQCDRPoI/edit
 
 
+## Interview Questions
+- https://www.toolsqa.com/blogs/rest-api-interview-questions-answers/
+
 ## Udemy Courses ##
 - https://naspers.udemy.com/course/gatling-fundamentals/learn/lecture/11924686#overview
 - https://naspers.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/4118904?start=225#overview
