@@ -11,7 +11,7 @@
 - Jackson. The most popular (de)serialization implementations for Java. We’ll exchange data with the backend’s REST APIs in JSON format; this library helps us to translate JSON from/to Java objects. Check the post “Java and JSON serialization with ObjectMapper” for a detailed guide on how Jackson conversions work.
 - https://www.baeldung.com/jackson-object-mapper-tutorial
 - https://www.baeldung.com/java-json
-- 
+- https://github.com/FasterXML/jackson-databind/wiki
 
 ## To generate Json Schema ##
 - https://jsonschema.net/home
