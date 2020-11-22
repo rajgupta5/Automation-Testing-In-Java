@@ -2,6 +2,8 @@
 
 
 ## Object Serialization and Deserialization ##
+- serialization (writing Java objects as JSON),
+- deserialization (reading JSON into Java Objects)
 - Converting XML or JSON to Java POJO Classes
 - http://pojo.sodhanalibrary.com/
 - Converting Json String to Java Object using either Gson, JSON-Simple, Jackson
