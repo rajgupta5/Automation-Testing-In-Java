@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Iterator;
 import java.util.ListIterator;
 
-public class test {
+public class JavaTest {
 
     public static void main(String[] args) {
         ArrayList<Integer> integerArrayList = new ArrayList<>(Arrays.asList(20,30,93,28,73));

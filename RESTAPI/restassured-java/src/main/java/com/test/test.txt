@@ -1,0 +1,23 @@
+Table – EmployeeDetails  
+
+EmpId FullName ManagerId DateOfJoining 
+
+121 John Snow       321                 01/31/2014 
+321 Walter White       986                 01/30/2015 
+421 Kuldeep Rana    876                 27/11/2016  
+
+
+
+Table – EmployeeSalary:  
+
+EmpId Project   Salary 
+121      P1              8000 
+321     P2              1000 
+421     P1             12000
+
+Write a SQL query to fetch all the Employees who are also managers from EmployeeDetails table
+
+select * from EmployeeSalary where EmpId in (select distinct(EmpId) from EmployeeDetails)
+
+select * from EmployeeDetails where EmpId in ( select distinct(ManagerId) from EmployeeDetails)
+
