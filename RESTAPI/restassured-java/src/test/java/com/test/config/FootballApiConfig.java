@@ -9,6 +9,9 @@ import io.restassured.specification.RequestSpecification;
 import io.restassured.specification.ResponseSpecification;
 import org.testng.annotations.BeforeClass;
 
+import java.util.ArrayList;
+import java.util.List;
+
 import static org.hamcrest.Matchers.lessThan;
 
 public class FootballApiConfig {
@@ -34,5 +37,11 @@ public class FootballApiConfig {
 
         RestAssured.responseSpecification = footballResponseSpec;
         RestAssured.requestSpecification = footballRequestSpec;
+
+        StringBuffer mystring = new StringBuffer();
+        StringBuilder mystring1 = new StringBuilder();
+        Object mystring2 = new String();
+        List<String> mylist = new ArrayList<>();
+
     }
 }
